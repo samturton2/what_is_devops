@@ -23,10 +23,18 @@ Cloud computing is the delivery of computer services online ( servers, storage, 
 It allows companies to only pay for the services they utilise rather than having to constantly upscale and downscale their own system.
 
 ### SAAS, PAAS & IAAS
-![](Management-Iaas-Saas-Paas-Cloud)
-Saas is Software as a service (e.g. Dropbox)
-Paas is Platform as a service (e.g. Windows Azure)
-Iaas is Infastructure as a service (e.g. AWS)
+![](/Management-Iaas-Saas-Paas-Cloud)
+- Saas is Software as a service (e.g. Dropbox)
+  - High accessibility, and compatible with other operating systems
+  - Low upfront costs 
+  - Requires internet connection
+- Paas is Platform as a service (e.g. Windows Azure)
+  - Reduces coding time
+  - Affordable
+- Iaas is Infastructure as a service (e.g. AWS)
+  - Eliminates capital expense and reduces ongoing costs
+  - Improves business continuity and disaster recovery
+  - Increase stability, reliability and supportability
 
 ### Hybrid and Public cloud
 ##### Hybrid cloud
@@ -44,5 +52,3 @@ Benefits:
 - No maintenence
 - Near-unlimited scalability
 - High reliability
-
-
