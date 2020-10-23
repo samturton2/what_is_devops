@@ -23,7 +23,7 @@ Cloud computing is the delivery of computer services online ( servers, storage, 
 It allows companies to only pay for the services they utilise rather than having to constantly upscale and downscale their own system.
 
 ### SAAS, PAAS & IAAS
-![](/Management-Iaas-Saas-Paas-Cloud.jpeg)
+![](/Management-Iaas-Saas-Paas-Cloud.jpg)
 - Saas is Software as a service (e.g. Dropbox)
   - High accessibility, and compatible with other operating systems
   - Low upfront costs 
